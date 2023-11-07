@@ -26,7 +26,7 @@ section{
 }
 
 .message{
-    border-radius: 20px;
+    border-radius: 21px;
     background-color: hsl(270, 20%, 96%);
     color: white;
 }
@@ -41,7 +41,7 @@ section{
     background-color: white;
     width: 50%;
     margin: auto;
-    height: 20px;
+    height: 21px;
     border-radius: 0px 0px 15px 15px;
 }
 
@@ -62,9 +62,9 @@ section{
 }
 
 .leftpart img{
-    border-radius: 20px;
+    border-radius: 21px;
     border: 2px solid white;
-    width: 25px;
+    width: 26px;
 }
 
 .description{
