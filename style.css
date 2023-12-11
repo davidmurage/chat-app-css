@@ -21,12 +21,12 @@ section{
 .phone{
     width: 65%;
     padding: 3%;
-    border-radius: 21px;
+    border-radius: 20px;
     background-color: white;
 }
 
 .message{
-    border-radius: 21px;
+    border-radius: 20px;
     background-color: hsl(270, 20%, 96%);
     color: white;
 }
@@ -41,7 +41,7 @@ section{
     background-color: white;
     width: 50%;
     margin: auto;
-    height: 21px;
+    height: 20px;
     border-radius: 0px 0px 15px 15px;
 }
 
